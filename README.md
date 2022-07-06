@@ -1,4 +1,6 @@
-Portfolio Project - Data cleaning using SQL Server
+Portfolio Project 
+Data cleaning using SQL Server
+
 This is a SQL portfolio project for data cleaning using sql server for a dataset - NashvilleHousing. 
 Data cleaning procedure includes these below mentioned functions -
 CONVERT()
@@ -9,6 +11,8 @@ CHARINDEX()
 PARSENAME()
 REPLACE()
 CTEs - Row_Number()
+
+
 
 Data Cleaning tasks for this dataset:
 1.	Standardize date format for SaleDate column
